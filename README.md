@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+< html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -94,6 +94,7 @@
         </li>
         <li>
             <strong>What tools and technologies were used in the project?</strong><br>
+            
             <em>Answer:</em> The project utilizes:
             <ul>
                 <li><strong>Power BI Desktop</strong> for dashboard creation.</li>
